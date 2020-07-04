@@ -1,0 +1,10 @@
+/.idea
+.DS_Store
+.env
+/node_modules
+/dist
+
+/.sync-config.cson
+/app/node_modules
+/npm-debug.log
+/vendor
